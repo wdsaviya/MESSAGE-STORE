@@ -951,3 +951,89 @@
   replyContact: [Function (anonymous)],
   react: [Function (anonymous)]
 }
+[SENT] [8/1/2025, 1:30:38 AM] BOT (15852823650@s.whatsapp.net): {
+  key: {
+    remoteJid: '120363416342011671@g.us',
+    fromMe: false,
+    id: '3EB0A52F5CDEFE6875F70E',
+    participant: '94722617699@s.whatsapp.net',
+    server_id: undefined
+  },
+  messageTimestamp: 1753992003,
+  pushName: 'ʜɪ_ツ⦂ʀͥᴇͣ͢ᴀͫʟ᭕༒𝚂𝙰𝚅𝙸𝚈𝙰᭄',
+  broadcast: false,
+  verifiedBizName: 'ʜɪ_ツ⦂ʀͥᴇͣ͢ᴀͫʟ᭕༒𝚂𝙰𝚅𝙸𝚈𝙰᭄',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '$m',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array],
+      limitSharingV2: [LimitSharing]
+    }
+  },
+  id: '3EB0A52F5CDEFE6875F70E',
+  chat: '120363416342011671@g.us',
+  fromMe: false,
+  isGroup: true,
+  sender: '94722617699@s.whatsapp.net',
+  type: 'extendedTextMessage',
+  msg: ExtendedTextMessage {
+    text: '$m',
+    contextInfo: ContextInfo {
+      mentionedJid: [Array],
+      groupMentions: [],
+      stanzaId: '3EB051974605BFCA664289',
+      participant: '89507437265131@lid',
+      quotedMessage: [Message],
+      expiration: 86400,
+      disappearingMode: [DisappearingMode]
+    },
+    inviteLinkGroupTypeV2: 0
+  },
+  mentionUser: [ '89507437265131@lid' ],
+  body: '$m',
+  quoted: <ref *1> Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hi', inviteLinkGroupTypeV2: 0 },
+    messageContextInfo: MessageContextInfo {
+      messageSecret: [Uint8Array],
+      limitSharingV2: [LimitSharing]
+    },
+    type: 'extendedTextMessage',
+    id: '3EB051974605BFCA664289',
+    sender: '89507437265131@lid',
+    fromMe: false,
+    msg: ExtendedTextMessage { text: 'hi', inviteLinkGroupTypeV2: 0 },
+    mentionUser: [],
+    fakeObj: WebMessageInfo {
+      messageStubParameters: [],
+      labels: [],
+      userReceipt: [],
+      reactions: [],
+      pollUpdates: [],
+      eventResponses: [],
+      statusMentions: [],
+      messageAddOns: [],
+      statusMentionSources: [],
+      supportAiCitations: [],
+      key: [MessageKey],
+      message: [Circular *1]
+    },
+    download: [Function (anonymous)],
+    delete: [Function (anonymous)],
+    react: [Function (anonymous)]
+  },
+  download: [Function (anonymous)],
+  reply: [Function (anonymous)],
+  replyS: [Function (anonymous)],
+  replyImg: [Function (anonymous)],
+  replyVid: [Function (anonymous)],
+  replyAud: [Function (anonymous)],
+  replyDoc: [Function (anonymous)],
+  replyContact: [Function (anonymous)],
+  react: [Function (anonymous)]
+}
