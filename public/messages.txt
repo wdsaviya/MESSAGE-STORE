@@ -243,3 +243,4 @@
 [SENT] [8/1/2025, 1:13:32 AM] BOT (15852823650@s.whatsapp.net): ✅ *Environment variable updated.*
 
 🗃️ *CHATBOT* ➠ off
+[SENT] [8/1/2025, 1:13:33 AM] BOT (15852823650@s.whatsapp.net): [Media Sent]
