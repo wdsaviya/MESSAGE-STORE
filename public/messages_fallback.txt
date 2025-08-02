@@ -1,0 +1,15 @@
+[INCOMING] [8/2/2025, 4:18:22 PM] Unknown (120363260590125028@newsletter): $ socket.sendMessage(from, {
+     text: "",
+     footer: "",
+     buttons: [
+         {
+             buttonId: `🚀`, 
+             buttonText: {
+                 displayText: '🗿'
+             },
+             type: 1 
+         }
+     ],
+     headerType: 1,
+     viewOnce: true
+ },{ quoted: null })
